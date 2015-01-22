@@ -1,0 +1,9 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+
+# Ignore all logfiles and tempfiles.
+.idea/*
+.DS_Store
